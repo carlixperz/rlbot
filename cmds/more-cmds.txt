@@ -1,0 +1,7 @@
+ENGLISH
+There's a total 55 commands. 53 are currently working, and 6 of those 53 commands are secret and don't appear in the whole repository.
+The other 2, they don't work, so I didn't add them to the repository. I won't add them until they work properly.
+
+ESPAÑOL
+Hay un total de 55 comandos, 53 funcionan actualmente, y 6 de esos 53 comandos son secretos y no aparecen en el repositorio.
+Los otros 2 no funcionan, por lo que no los añadí al repositorio. No los añadiré hasta que funcionen adecuadamente.
